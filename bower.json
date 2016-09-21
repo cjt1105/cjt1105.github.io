@@ -1,0 +1,17 @@
+{
+  "name": "startbootstrap-creative-gh-pages",
+  "authors": [
+    "CJT1105 <CJT1105@GMAIL.COM>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
