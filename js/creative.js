@@ -61,4 +61,10 @@
         }
     });
 
+     $(".streambuddies").on("click",function(){
+         console.log('hey')
+         window.open('https://still-ocean-92666.herokuapp.com/#/','_blank');
+     });
+
+
 })(jQuery); // End of use strict
